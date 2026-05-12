@@ -12,7 +12,7 @@ profile:
     <p>INTECIN (UBA-CONICET)</p>
     <p>Av. Paseo Colón 850</p>
     <p>Buenos Aires, Argentina</p>
-    <p>`jpresenza@fi.uba.ar`</p>
+    <p><a href="mailto:jpresenza@fi.uba.ar">jpresenza@fi.uba.ar</a></p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
