@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Postdoctoral Researcher at [University of Buenos Aires](https://uba.ar/) and [CONICET](https://www.conicet.gov.ar/), Argentina
+subtitle: Postdoctoral Researcher at <a href='https://uba.ar/'>University of Buenos Aires</a>, Argentina
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Instituto de Tecnologías y Ciencias de la Ingeniería "Hilario Fernández Long" (INTECIN)</p>
+    <p>INTECIN (UBA-CONICET)</p>
     <p>Av. Paseo Colón 850</p>
     <p>Buenos Aires, Argentina</p>
 
@@ -26,9 +26,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
-Postdoctoral Researcher at University of Buenos Aires and CONICET, Argentina
-
+[CONICET](https://www.conicet.gov.ar/)
 I am a postdoctoral researcher working at the intersection of applied mathematics, control theory, graph theory, and robotics. My research focuses on the analysis and design of distributed methods for multi-robot systems, with particular emphasis on rigidity theory, cooperative localization, nonlinear observers, and decentralized coordination under sensing and communication constraints.
 
 I received my Ph.D. in Engineering from the University of Buenos Aires in 2023. My doctoral and postdoctoral work investigates how tools from graph rigidity, spectral graph theory, nonlinear systems, and geometric control can be used to design scalable and robust coordination algorithms for networked robotic systems.
