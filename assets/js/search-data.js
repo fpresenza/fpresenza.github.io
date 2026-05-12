@@ -486,6 +486,13 @@ ninja.data = [{
           section: "Teachings",handler: () => {
               window.location.href = "/teachings/introduction-to-machine-learning/";
             },},{
+        id: 'social-email',
+        title: 'email',
+        section: 'Socials',
+        handler: () => {
+          window.open("mailto:%6A%70%72%65%73%65%6E%7A%61@%66%69.%75%62%61.%61%72", "_blank");
+        },
+      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
@@ -497,7 +504,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/juan-francisco-presenza", "_blank");
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/juan-francisco-presenza/", "_blank");
         },
       },{
         id: 'social-github',
@@ -511,7 +518,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0003-0188-1519", "_blank");
+          window.open("https://orcid.org/https://orcid.org/0000-0003-0188-1519", "_blank");
         },
       },{
       id: 'light-theme',
