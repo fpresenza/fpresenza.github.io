@@ -1,9 +1,20 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"L-CSS":
+  url: https://ieeecss.org/publication/ieee-control-systems-letters
 
-"PhysRev":
-  url: https://journals.aps.org/
+"RA-L":
+  url: https://www.ieee-ras.org/publications/ra-l
 
-"Vision":
-  color: "#009f36"
+"ACC":
+  url: https://acc2022.a2c2.org/
+
+"CDC":
+  url: https://cdc2025.ieeecss.org/
+
+"LAA":
+  url: https://www.sciencedirect.com/journal/linear-algebra-and-its-applications
+
+"US":
+  url: https://www.worldscientific.com/worldscinet/US?srsltid=AfmBOoonNs7RoepK_DVXqksT4moJU2JenifJaVIMsb-xBW2lG3Lhz5Dn
+
+"WSIM":
+  url: https://meetings.informs.org/wordpress/wsc2025/
