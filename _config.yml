@@ -280,7 +280,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Presenza]
-  first_name: [[Francisco, Juan Francisco, J. Francisco, J. F., Juan F.]]
+  first_name: [Francisco, J. Francisco, J. F., Juan F.]
 
   style: apa
   locale: en
