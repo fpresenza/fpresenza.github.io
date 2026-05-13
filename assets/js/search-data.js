@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/research/";
           },
-        },{id: "nav-code",
-          title: "Code",
-          description: "Software and code repositories.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/code/";
-          },
         },{id: "nav-publications",
           title: "Publications",
           description: "Publications by categories in reversed chronological order.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
+          },
+        },{id: "nav-code",
+          title: "Code",
+          description: "Software and code repositories.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/code/";
           },
         },{id: "nav-cv",
           title: "CV",
