@@ -7,7 +7,17 @@ nav: true
 nav_order: 2
 ---
 
-My research centers on **localizability- and interaction-aware coordination for multi-robot systems**. The goal is to enable teams of robots to operate in unstructured environments using only local perception and inter-agent communication. This direction is motivated by the need to **reduce dependence on installed infrastructure**, such as centralized computers, global positioning systems, or fixed communication facilities, thereby improving autonomy, resilience, and scalability. To achieve this, I combine tools from _graph theory_, _nonlinear control_, _event-driven dynamical systems_, and _multi-agent learning_.
+My research centers on estimation and control strategies for multi-robot systems**
+The goal is to enable teams of robots to operate in unstructured environments using only local perception and inter-agent communication. This direction is motivated by the need to **reduce dependence on installed infrastructure**, such as centralized computers, global positioning systems, or fixed communication facilities, thereby improving autonomy, resilience, and scalability.
+
+My work around the following directions:
+* Design of distributed observers based on relative measurements such as distance, bearings, and angles.
+* Develop rigidity and observability theory that helps compare the proposed observers and understand their properties.
+* Design localizability-aware control strategies that aim to guarantee a minimum level of observability while robots carry a mission.
+* Model the integrated localization and cotrol strategies using tailored multi-agent event-based simulators.
+  
+<!--
+The goal is to enable teams of robots to operate in unstructured environments using only local perception and inter-agent communication. This direction is motivated by the need to **reduce dependence on installed infrastructure**, such as centralized computers, global positioning systems, or fixed communication facilities, thereby improving autonomy, resilience, and scalability. To achieve this, I combine tools from _graph theory_, _nonlinear control_, _event-driven dynamical systems_, and _multi-agent learning_.
 
 ### Rigidity Theory
 A fundamental way to achieve coordination on multi-robot systems is by performing distributed localization from inter-robot measurements, such as distances, bearings, and angles.
@@ -25,5 +35,5 @@ By properly identifying local subgraphs, I designed decentralized control laws t
 As a third major line of work, I have worked on the design and implementation of event-based simulation frameworks for multi-agent systems.
 This line of work leverages the Emergent Behavior Discrete Event System Specification (EB-DEVS), enabling the representation of both direct and indirect interactions between agents via event messages and through macroscopic-microscopic state sharing, respectively.
 This simulation approach allows for the systematic evaluation of collective behavior under asynchronous events, multi-hop interactions, and time-varying interaction topologies.
-
+-->
 
