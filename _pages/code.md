@@ -7,8 +7,6 @@ nav_order: 4
 description: Software and code repositories.
 ---
 
-## Software
-
 ### uv_network
 
 Code repository related to rigidity-based multi-robot localization and control.
