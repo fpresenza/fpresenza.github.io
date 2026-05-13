@@ -10,7 +10,7 @@ nav_order: 2
 My research centers on estimation and control strategies for **multi-robot systems**
 The goal is to enable teams of robots to operate in unstructured environments **using only local perception and inter-agent communication**. This direction is motivated by the need to reduce dependence on installed infrastructure, such as centralized computers, global positioning systems, or fixed communication facilities, thereby improving **autonomy**, **resilience**, and **scalability**.
 
-My work around the following directions:
+My work addresses the following research directions:
 + Design of distributed observers based on relative measurements such as distance, bearings, and angles.
 + Develop rigidity and observability theory that helps compare the proposed observers and understand their properties.
 + Design localizability-aware control strategies that aim to guarantee a minimum level of observability while robots carry out a mission.
