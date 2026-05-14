@@ -12,8 +12,8 @@ My teaching focuses on **providing engineering students with a rigorous and usab
 Trained as an engineer myself, I am attentive to the ways engineering students engage with mathematics and to the importance of connecting theory with practical contexts.
 
 My goal is to guide students in developing the ability to:
-1. Translating concrete problems into mathematical models,
-2. Selecting and applying the appropriate theoretical frameworks,
+1. Translating concrete problems into mathematical models.
+2. Selecting and applying the appropriate theoretical frameworks.
 3. Implementing the solutions in computational and engineering contexts.
    
 During this process, I encourage students to reason about the assumptions made and the limitations involved.
