@@ -11,7 +11,7 @@ My research centers on estimation and control strategies for **multi-robot syste
 The goal is to enable teams of robots to operate in unstructured environments **using only local perception and inter-agent communication**.
 This direction is motivated by the need to reduce dependence on installed infrastructure, such as centralized computers, global positioning systems, or fixed communication facilities, thereby improving **autonomy**, **resilience**, and **scalability**.
 
-My current work addresses the following closely related research directions:
+My current work addresses the following closely related directions:
 + Designing distributed pose estimators based on inter-agent measurements provided by onboard sensors such as cameras.
 + Developing rigidity theory that helps compare these estimators and understand their observability properties.
 + Designing perception-aware control strategies that maintain sufficient observability while robots execute a mission.
