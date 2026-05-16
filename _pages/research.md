@@ -13,7 +13,7 @@ This direction is motivated by the need to reduce dependence on installed infras
 
 My current work addresses the following closely related directions:
 + Designing distributed pose estimators based on inter-agent measurements provided by onboard sensors such as cameras.
-+ Developing rigidity theory that helps compare these estimators and understand their observability properties.
++ Developing localizability theory that helps compare these estimators and understand their observability properties.
 + Designing perception-aware control strategies that maintain sufficient observability while robots execute a mission.
 + Model the integrated localization-and-control strategies using tailored event-based multi-agent simulators.
   
