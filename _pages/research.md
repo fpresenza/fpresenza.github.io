@@ -11,11 +11,12 @@ My research centers on estimation and control strategies for **multi-robot syste
 The goal is to enable teams of robots to operate in unstructured environments **using only local perception and inter-agent communication**.
 This direction is motivated by the need to reduce dependence on installed infrastructure, such as centralized computers, global positioning systems, or fixed communication facilities, thereby improving **autonomy**, **resilience**, and **scalability**.
 
-My current work addresses the following closely related directions:
-+ Designing distributed pose estimators based on inter-agent measurements provided by onboard sensors such as cameras.
-+ Developing localizability theory that helps compare these estimators and understand their observability properties.
-+ Designing perception-aware control strategies that maintain sufficient observability while robots execute a mission.
-+ Model the integrated localization-and-control strategies using tailored event-based multi-agent simulators.
+My current work addresses the following directions:
++ **Design distributed pose estimators** based on inter-agent measurements provided by onboard sensors such as cameras.
++ **Develope localizability theory** that helps compare these estimators and understand their observability properties.
++ **Design perception-aware control** strategies that maintain sufficient observability while robots execute a mission.
++ **Model and simulate** the integrated localization-and-control strategies using tailored event-based multi-agent simulators.
++ **Implement and validate experimentally** the proposed systems both in structured environments (the lab) and in unstructured ones (the field).
   
 <!--
 The goal is to enable teams of robots to operate in unstructured environments using only local perception and inter-agent communication. This direction is motivated by the need to **reduce dependence on installed infrastructure**, such as centralized computers, global positioning systems, or fixed communication facilities, thereby improving autonomy, resilience, and scalability. To achieve this, I combine tools from _graph theory_, _nonlinear control_, _event-driven dynamical systems_, and _multi-agent learning_.
