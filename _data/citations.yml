@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-06-08'
 papers:
   z0ng5SIAAAAJ:2osOgNQ5qMEC:
     citations: 4
@@ -21,6 +21,10 @@ papers:
     citations: 1
     title: Extremal properties and bounds for the generalized algebraic connectivity of graphs in Euclidean spaces
     year: '2025'
+  z0ng5SIAAAAJ:TQgYirikUcIC:
+    citations: 0
+    title: Multi-Robot Bearing-only Pose Estimation via Angle Rigidity
+    year: '2026'
   z0ng5SIAAAAJ:UeHWp8X0CEIC:
     citations: 1
     title: 'Generalized algebraic connectivity of graphs in Euclidean spaces: extremal properties and bounds'
@@ -38,7 +42,7 @@ papers:
     title: Sistema de control para un robot aerodeslizante
     year: '2019'
   z0ng5SIAAAAJ:mB3voiENLucC:
-    citations: 0
+    citations: 1
     title: Angle-based Localization and Rigidity Maintenance Control for Multi-Robot Networks
     year: '2026'
   z0ng5SIAAAAJ:qjMakFHDy7sC:
