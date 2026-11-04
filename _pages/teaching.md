@@ -25,7 +25,7 @@ at major public and private universities in Argentina.
 Through these experiences, I have been engaged in undergraduate instruction, course coordination, and assessment design, with an estimated 2000 contact hours of classroom teaching.
 
 List of courses taught:
-- Harmonic Analysis, _University of San Andrés_. Role: Lecturer - Instructor of Record (Period: 2025-present)
+- Signals and Systems, _University of San Andrés_. Role: Lecturer - Instructor of Record (Period: 2025-present)
 - Discrete Mathematics, _University of San Andrés_. Role: Lecturer - Instructor of Record (Period: 2024-present)
 - Linear Algebra, _University of Buenos Aires_. Role: Lecturer (Period: 2019-2025)
 - Discrete Mathematics, _University of San Andrés_. Role: Lecturer (Period: 2022-2024)
