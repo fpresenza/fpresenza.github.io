@@ -35,4 +35,4 @@ In 2023, I received my Ph.D. in Engineering from the University of Buenos Aires 
 Previously, in 2017, I obtained my engineering degree, equivalent to a combined B.Sc. and M.Sc., from the [University of Mar del Plata](https://www.mdp.edu.ar/), where I received a _Diploma of Honor_.
 
 In addition to my academic work, I possess over ten years of experience in teaching applied mathematics in engineering programs, developed at University of Mar del Plata, University of Buenos Aires, and [University of San Andrés](https://www.udesa.edu.ar/).
-My teaching activities include roles as a lecturer with full course responsibility for subjects such as Linear Algebra, Discrete Mathematics, Engineering Mathematics, and Harmonic Analysis.
+My teaching activities include roles as a lecturer with full course responsibility for subjects such as Linear Algebra, Discrete Mathematics, Engineering Mathematics, and Signals and Systems.
